@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">RideShare</string>
+
+    <!--    login-->
+    <string name="rideshare">Ride\nShare</string>
+    <string name="mail">Логин</string>
+    <string name="pass">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="toastNotFoundUser">Пользователь не найден или неверный пароль</string>
+    <string name="registration">Зарегистрироваться</string>
+    <!--    Header-->
+    <string name="back">Назад</string>
+    <!--    Main-->
+    <string name="logout">Выйти</string>
+    <!--reg-->
+    <string name="repPass">Повторите пароль</string>
+    <string name="toastEnterPass">Введите пароль</string>
+    <string name="toastPassDoNotMutch">Пароли не совпадают</string>
+
+    <string name="toastEmptyToken">Пожалуйста, проверьте заполненность всех полей!</string>
+    <string name="toastErrorPass">Пароль должен состоять минимум из 6 символов</string>
+    <string name="toastErrorPassEqual">Пароли не совпадают</string>
+    <string name="toastLoginError">Некорректный логин или пароль</string>
+    <string name="passenger">Пассажир</string>
+    <string name="driver">Водитель</string>
+    <string name="choiceRole">Выберите роль</string>
+
+    <string name="fio">ФИО</string>
+    <string name="number">Номер телефона</string>
+    <string name="date">Дата и время выезда</string>
+    <string name="carModel">Модель автомобиля</string>
+    <string name="startLocation">Место выезда</string>
+    <string name="finishLocation">Место назначения</string>
+    <string name="carNumber">Номер автомобиля</string>
+    <string name="choice">Выбрать</string>
+    <string name="clickOnCard">Нажмите на карту для выбора места</string>
+    <string name="youPass">Ваши попутчики</string>
+    <string name="youDriver">Информация о водителе</string>
+    <string name="start">Поехали!</string>
+    <string name="finish">Окончить поездку</string>
+    <string name="help">112</string>
+    <string name="cancel">Отказаться</string>
+    <string name="actualDrivers">Актуальные водители</string>
+
+
+</resources>
